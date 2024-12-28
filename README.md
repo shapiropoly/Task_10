@@ -1,4 +1,4 @@
-## МИСПИС. Лабораторная работа 10
+## Task 10
 
 ![class.png](assets/class.png)
 
